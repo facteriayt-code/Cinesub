@@ -1,0 +1,5 @@
+{
+  "name": "Cinesub",
+  "description": "A high-fidelity copycat of Mappl.tv, featuring a cinematic dark theme, AI-driven movie insights using Gemini, and a responsive discovery interface.",
+  "requestFramePermissions": []
+}
